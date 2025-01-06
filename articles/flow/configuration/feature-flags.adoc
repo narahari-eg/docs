@@ -26,7 +26,7 @@ dl code {
 ++++
 
 `collaborationEngineBackend`::
-Collaboration Kit backend for clustering support. https://github.com/vaadin/platform/issues/1988[Learn more]
+Collaboration Kit backend for clustering support. https://github.com/vaadin/platform/issues/1988[Learn more.]
 `copilotExperimentalFeatures`::
 Experimental, not stable new features of Vaadin Copilot.
 
